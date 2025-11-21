@@ -1,4 +1,13 @@
-CryptoM5 – Crypto Trading Website (Wireframe Project)
+<h1>CryptoM5 – Crypto Trading Website (Wireframe Project)<h1/>
+
+
+<img width="1920" height="11335" alt="image" src="https://github.com/user-attachments/assets/6fb07b17-5e09-40ad-917a-659ada9be4a5" />
+
+
+
+
+
+
 
 This project is a static HTML wireframe for a cryptocurrency trading website called CryptoM5.
 It demonstrates the layout and structure for a modern crypto platform, including sections like navigation, features, pricing plans, traders, articles, contact form, embedded video, Google Maps, and more.
