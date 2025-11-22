@@ -1,4 +1,4 @@
-<h1>CryptoM5 – Crypto Trading Website (Wireframe Project)<h1/>
+CryptoM5 – Crypto Trading Website (Wireframe Project)
 
 
 <img width="1920" height="11335" alt="image" src="https://github.com/user-attachments/assets/6fb07b17-5e09-40ad-917a-659ada9be4a5" />
